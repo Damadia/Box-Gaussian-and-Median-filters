@@ -24,3 +24,4 @@
     
     7.3. En Median filter hay que definir la imagen de sal y pimienta y usar esa en vez de la original para ver los efectos de median filter. Llamar a la función medianBlur(img, k)
 
+NOTA: las depencias no están incluidas en el git, por lo que hay que hacer los pasos 3 y 4 antes de poder ejecutar los archivos .py
